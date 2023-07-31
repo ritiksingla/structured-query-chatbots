@@ -1,0 +1,11 @@
+DATABASE_NAME = tmp/nl2sql.db
+HISTORY_FILENAME = tmp/history.txt
+EXAMPLES:
+- What is the average salary of employees in the department of sales?
+- What is the average salary of employees in the department of sales in the city of Boston?
+- Who is the manager of the department of sales?
+
+EXAMPLES_GENERIC:
+- How many rows are in the table?
+- How many columns are in the table?
+- Describe the table.
